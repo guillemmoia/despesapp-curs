@@ -9,7 +9,7 @@ Exemple, quan un grup d'amics se'n va de copes o a un restaurant...
 
 ## Imatge d’Exemple
 
-![Descripció de la imatge](aula.jpeg)
+![Descripció de la imatge](inici.png)
 
 ## Descripció
 
