@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #a6fb61; /* Bootstrap primary blue */
+    padding: 2rem 1rem;
+}
+
+.navbar a {
+    color: #ffffff; /* White links */
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+.navbar a:hover {
+    color: #d4d4d4; /* Light gray on hover */
+    text-decoration: underline;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navbar-brand:hover {
+    color: #d4d4d4;
+}

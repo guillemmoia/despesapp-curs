@@ -6,7 +6,7 @@ Aquest és un projecte d’exemple que mostra com incloure una imatge en un fitx
 
 ## Imatge d’Exemple
 
-![Descripció de la imatge](macia.png)
+![Descripció de la imatge](aula.jpeg)
 
 ## Descripció
 
